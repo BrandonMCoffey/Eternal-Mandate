@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-namespace Assets.Game.Scripts.Player_Systems
+namespace Scripts.Player_Systems
 {
     [RequireComponent(typeof(CharacterController))]
     public class PlayerController : MonoBehaviour
